@@ -1,0 +1,15 @@
+{
+  "name": "aiomas",
+  "version": "1.0.0",
+  "description": "Agent & RPC tools compatible with python's aiomas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aiomas",
+    "rpc"
+  ],
+  "author": "offbeatwitch <obw@generalprogramming.org>",
+  "license": "MIT"
+}
