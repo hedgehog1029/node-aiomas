@@ -1,6 +1,6 @@
 {
   "name": "aiomas",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Agent & RPC tools compatible with python's aiomas",
   "main": "index.js",
   "scripts": {
